@@ -11,7 +11,6 @@ def fib(num):
   for i in range(num - 1):
       
       if i == 0:
-      
         digit1 += 1
         cursum = digit0 + digit1
         print(cursum)
